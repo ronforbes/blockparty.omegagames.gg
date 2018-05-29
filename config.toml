@@ -1,7 +1,6 @@
 baseurl = "http://blockparty.omegagames.gg"
 languageCode = "en-us"
 title = "Block Party"
-canonifyUrls = "true"
 theme = "landing-page-hugo"
 
 [params]
