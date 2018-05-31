@@ -1,6 +1,7 @@
 ---
 title: "An online party where you compete against the internet"
 date: 2018-05-29T12:20:49-07:00
+img: "BlockPartyResults.png"
 draft: false
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Fast-paced block-matching gameplay"
 date: 2018-05-29T12:23:38-07:00
+img: "BlockPartyGameplay.png"
 draft: false
 ---
 

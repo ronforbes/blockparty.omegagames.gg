@@ -1,6 +1,7 @@
 ---
 title: "Ways to connect with others around the world"
 date: 2018-05-29T12:20:26-07:00
+img: "BlockPartyLobby.png"
 draft: false
 ---
 
