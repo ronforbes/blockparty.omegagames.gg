@@ -1,4 +1,4 @@
-baseurl = "https://blockpartyomegagames.netlify.com/"
+baseurl = "https://blockparty.omegagames.gg/"
 languageCode = "en-us"
 title = "Block Party"
 theme = "landing-page-hugo"
